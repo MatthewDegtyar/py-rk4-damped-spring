@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # dx/dt = v
 # dv/dt = - (c/m) * v - (k/m) * x
 
-# express as a vector valued function y(t) = [x(t), v(t)]
+# express as a vector valued function y(t) = (x(t), v(t))
 # and used RK4 to estimate y(t) over time
 
 # TODO: use taylor series to sanity check
